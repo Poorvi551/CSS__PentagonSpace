@@ -7,5 +7,6 @@ _____________________________
 CSS - Cascading Style Sheet (falling colors and effects).
 
 * CSS was Developed by Huckon Wuem Lie in 1996.
+* CSS is used to design an interactive UI(User Interface)
 
 
